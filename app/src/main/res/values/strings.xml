@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FileViewer</string>
+    <string name="new_folder">New Folder</string>
+    <string name="new_txt">New Text File</string>
+    <string name="title_activity_file_list">FileListActivity</string>
+    <string name="no_file_text">No files found</string>
+    <string name="paste">Paste</string>
+</resources>
